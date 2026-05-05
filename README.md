@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit c1a87de5fe731565fe43bb187a160070e5286c38
+> عيونك نار بتكوي قلبي في الليل
+> لمستك سحر بتشعل روحي كدليل
+> شوقك في دمي بيدفي كل المكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
