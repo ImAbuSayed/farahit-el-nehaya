@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Farahit El Nehaya |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/farahit-el-nehaya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Farahit El Nehaya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
