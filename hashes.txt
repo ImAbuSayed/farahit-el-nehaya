@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Farahit El Nehaya
+
+This log tracks the cryptographic history and versioning for the song **Farahit El Nehaya** (farahit-el-nehaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:23:50.477167 | `v1` | `e098a7d737a2d6d3e7da5eeb844376ae687b5e29fd8e564a73da53bd30acb0c3` | `42f7b45ed556d054ccd0bdaf2512402eb77fccdca984b5eb6d658847626b558f` | `2026-05-08_farahit-el-nehaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
